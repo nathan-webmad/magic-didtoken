@@ -41,7 +41,7 @@ export default function Index() {
 					href="https://docs.magic.link/client-sdk/web/api-reference#getidtoken"
 					target="_blank"
 				>
-					here
+					here{' '}
 				</a>{' '}
 				to extend more.
 			</p>
