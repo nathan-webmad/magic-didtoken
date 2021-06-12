@@ -36,14 +36,14 @@ export default function Index() {
 			<strong>✨DID Token✨</strong>
 			<pre>{didToken}</pre>
 			<p>
-				Validity of the DID Token is <strong>10 hours.</strong> Read more{' '}
+				Validity of this DID Token is <strong>10 hours.</strong> Read{' '}
 				<a
 					href="https://docs.magic.link/client-sdk/web/api-reference#getidtoken"
 					target="_blank"
 				>
 					here
 				</a>
-				.
+				to extend more.
 			</p>
 			<button onClick={logout}>Logout</button>
 		</div>
