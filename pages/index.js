@@ -42,7 +42,7 @@ export default function Index() {
 					target="_blank"
 				>
 					here
-				</a>
+				</a>{' '}
 				to extend more.
 			</p>
 			<button onClick={logout}>Logout</button>
